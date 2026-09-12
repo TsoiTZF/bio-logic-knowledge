@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-09-12 (v1.3)
+
+- SES 约束改方向：高秆+高抗（≤3）FATAL；干旱看 1–3 级耐旱；低温看 7–9 级敏感
+- 高产低质反模式增加 better/worse 意图
+- 去掉官网首页/检索页充数 URL，DOI 年份对齐
+
 ## 2026-09-12 (v1.2)
 
 - 亩产 id：`rice_yield_per_mu`（`rice_yield_per_ha` 为别名）
