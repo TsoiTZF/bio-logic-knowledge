@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-09-12 (v1.6)
+
+- 无 URL 不得标 CONFIRMED
+- Chalk5/GS3 不再撑无关相关系数
+- 早熟/收获指数/干旱为 WARNING；直链淀粉×胶稠度、低温为 SEVERE
+
 ## 2026-09-12 (v1.5)
 
 - 早熟、收获指数降为 SEVERE；干旱产量损失降为 WARNING
