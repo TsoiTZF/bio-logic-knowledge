@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-09-12 (v1.2)
+
+- 亩产 id：`rice_yield_per_mu`（`rice_yield_per_ha` 为别名）
+- 可核对文献补 DOI（Khush 1999、Peng 2008、GS3、Ghd7、Chalk5、DRO1、sd1 等）
+
 ## 2026-09-12 (v1.1)
 
 与 bio-logic-debugger 内置库对齐。
